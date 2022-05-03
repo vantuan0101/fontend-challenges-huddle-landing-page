@@ -9,7 +9,9 @@ I make a coding challenge at Fontend Mentor (https://www.frontendmentor.io/chall
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
-And finally . I've been completed .
+And finally . I've been completed . 
+
+You can see my POST on Fontend Mentor : https://www.frontendmentor.io/solutions/responsive-using-pure-css-SJb4jUAr9
 
 Demo :  https://vantuan0101.github.io/fontend-challenges-huddle-landing-page/
 
