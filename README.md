@@ -10,8 +10,8 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
-![And finally . I've been completed]
+![And finally . I've been completed](./design/desktop-preview.jpg).
 Demo : http://vantuan.me/fontend-challenges-huddle-landing-page/
 
-![on Desktop ] (./design/desktop-preview.jpg)
-![on Mobile ] (./design/mobile-design.jpg)
+![On Desktop](./design/desktop-preview.jpg).
+![On Mobile](./design/mobile-design.jpg)
