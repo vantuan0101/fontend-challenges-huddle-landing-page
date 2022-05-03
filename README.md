@@ -11,7 +11,7 @@ I make a coding challenge at Fontend Mentor (https://www.frontendmentor.io/chall
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 And finally . I've been completed .
 
-Demo : http://vantuan.me/fontend-challenges-huddle-landing-page/
+Demo :  https://vantuan0101.github.io/fontend-challenges-huddle-landing-page/
 
 ## On Desktop
 ![On Desktop](./design/desktop-preview.jpg).
