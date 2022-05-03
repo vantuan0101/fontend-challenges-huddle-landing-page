@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+I make a coding challenge at Fontend Mentor (https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
