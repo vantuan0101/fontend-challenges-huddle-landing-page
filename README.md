@@ -2,10 +2,13 @@
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
+And finally . I've been completed .
+Demo : http://vantuan.me/fontend-challenges-huddle-landing-page/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
-#Using HTML and CSS to do that
+# Using HTML and CSS to do that
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
@@ -92,6 +95,5 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 
-And finally . I've been completed
-Demo : http://vantuan.me/fontend-challenges-huddle-landing-page/
+
 
