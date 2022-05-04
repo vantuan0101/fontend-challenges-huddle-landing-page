@@ -14,7 +14,9 @@ Here is the link of the challange-
 https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0
 
 Here is Demo -
-http://vantuan0101.github.io/fontend-challenges-huddle-landing-page/
+http://vantuan.me/fontend-challenges-huddle-landing-page/
+
+Source code : https://github.com/vantuan0101/fontend-challenges-huddle-landing-page
 
 You can see my POST on Fontend Mentor : https://www.frontendmentor.io/solutions/responsive-using-pure-css-SJb4jUAr9
 
