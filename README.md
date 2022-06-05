@@ -14,7 +14,7 @@ Here is the link of the challange-
 https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0
 
 Here is Demo -
-http://vantuan.me/fontend-challenges-huddle-landing-page/
+https://vantuan0101.github.io/fontend-challenges-huddle-landing-page/
 
 Source code : https://github.com/vantuan0101/fontend-challenges-huddle-landing-page
 
